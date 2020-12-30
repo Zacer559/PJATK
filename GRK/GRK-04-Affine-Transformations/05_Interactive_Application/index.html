@@ -1,0 +1,58 @@
+<style> body {
+    background-color: #ccc;
+} </style>
+<script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.7/p5.js"></script>
+<body>
+TRANSFORMATIONS
+<br>
+<label>translation:</label>
+<label>tx</label>
+<input id="tx" name="tx" type="number" value=0>
+<label>ty</label>
+<input id="ty" name="ty" type="number" value=0>
+
+<br>
+<label>scale:</label>
+<label>sx</label>
+<input id="sx" name="sx" type="number" value=1>
+<label>sy</label>
+<input id="sy" name="sy" type="number" value=1>
+<br>
+<label>rotate:</label>
+<label>angle</label>
+<input id="angle" name="angle" type="number" value=0>
+<button onclick="transform('rotate',
+document.getElementById('tx').value,
+document.getElementById('ty').value,
+document.getElementById('sx').value,
+document.getElementById('sy').value,
+document.getElementById('angle').value,
+document.getElementById('shx').value,
+document.getElementById('shy').value)">
+    rotate
+</button>
+<br>
+<label>shear:</label>
+<label>shx</label>
+<input id="shx" name="shx" type="number" value=0>
+<label>shy</label>
+<input id="shy" name="shy" type="number" value=0>
+<!-- <button onclick="transform('shear', document.getElementById('shx').value, document.getElementById('shy').value)">
+  shear
+</button > -->
+<br>
+
+<button onclick="transform('transform',
+document.getElementById('tx').value,
+document.getElementById('ty').value,
+document.getElementById('sx').value,
+document.getElementById('sy').value,
+document.getElementById('angle').value,
+document.getElementById('shx').value,
+document.getElementById('shy').value)">
+    transform
+</button>
+<br>
+<label>transformation Matrix</label>
+<input id="transformMatrix">
+<script src="05.js"></script>
