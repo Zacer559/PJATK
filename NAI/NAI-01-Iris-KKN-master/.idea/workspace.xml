@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15591722-41ef-49a2-84b9-d5cd67069b76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1Ywn6O8q9Qpst1aQk9Dik411m4u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="E:\Projects\NAI-01-Iris-KKN" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15591722-41ef-49a2-84b9-d5cd67069b76" name="Default Changelist" comment="" />
+      <created>1583862347771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583862347771</updated>
+      <workItem from="1583862351077" duration="13219000" />
+      <workItem from="1584199459695" duration="854000" />
+      <workItem from="1584200325530" duration="1156000" />
+      <workItem from="1584356592687" duration="6719000" />
+      <workItem from="1584375360194" duration="828000" />
+      <workItem from="1584611447486" duration="3130000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial class scratch">
+      <created>1583862619585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583862619585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="README.md update">
+      <created>1583862676033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583862676033</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Correct reading data and saving.">
+      <created>1583866127654</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583866127654</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final version">
+      <created>1583868213252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583868213252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final version with k closest plants and x plants as dataset and rest as plants to check">
+      <created>1583872168382</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583872168382</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final release">
+      <created>1583873350169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583873350169</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final release">
+      <created>1583873365283</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583873365283</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final release">
+      <created>1583873725766</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583873725766</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added checking best k functionality">
+      <created>1583875886483</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583875886483</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated to task requierements.">
+      <created>1584363321128</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584363321128</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Initial class scratch" />
+    <MESSAGE value="README.md update" />
+    <MESSAGE value="Correct reading data and saving." />
+    <MESSAGE value="Final version" />
+    <MESSAGE value="Final version with k closest plants and x plants as dataset and rest as plants to check" />
+    <MESSAGE value="Final release" />
+    <MESSAGE value="Added checking best k functionality" />
+    <MESSAGE value="Updated to task requierements." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated to task requierements." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1044" y="488" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583862550794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1044" y="488" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1583862550794" />
+    <state x="1085" y="414" key="#com.intellij.ide.util.MemberChooser" timestamp="1583866928558">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="414" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1583866928558" />
+    <state x="723" y="102" width="824" height="976" key="CommitChangelistDialog2" timestamp="1584363320997">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="903" y="206" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583875886123" />
+    <state x="723" y="102" width="824" height="976" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1584363320997" />
+    <state x="779" y="311" width="424" height="482" key="FileChooserDialogImpl" timestamp="1584376186352">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="482" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1584376186352" />
+    <state width="1804" height="292" key="GridCell.Tab.0.bottom" timestamp="1584614748903">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="2516" height="373" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583875828898" />
+    <state width="1822" height="256" key="GridCell.Tab.0.bottom/54.27.1866.1053@54.27.1866.1053" timestamp="1584360175762" />
+    <state width="1806" height="256" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1584363639769" />
+    <state width="1804" height="292" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1584614748903" />
+    <state width="1804" height="292" key="GridCell.Tab.0.center" timestamp="1584614748902">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="2516" height="373" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583875828897" />
+    <state width="1822" height="256" key="GridCell.Tab.0.center/54.27.1866.1053@54.27.1866.1053" timestamp="1584360175762" />
+    <state width="1806" height="256" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1584363639769" />
+    <state width="1804" height="292" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1584614748902" />
+    <state width="1804" height="292" key="GridCell.Tab.0.left" timestamp="1584614748901">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="2516" height="373" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583875828897" />
+    <state width="1822" height="256" key="GridCell.Tab.0.left/54.27.1866.1053@54.27.1866.1053" timestamp="1584360175761" />
+    <state width="1806" height="256" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1584363639769" />
+    <state width="1804" height="292" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1584614748901" />
+    <state width="1804" height="292" key="GridCell.Tab.0.right" timestamp="1584614748902">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="2516" height="373" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583875828897" />
+    <state width="1822" height="256" key="GridCell.Tab.0.right/54.27.1866.1053@54.27.1866.1053" timestamp="1584360175762" />
+    <state width="1806" height="256" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1584363639769" />
+    <state width="1804" height="292" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1584614748902" />
+    <state x="700" y="348" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1584363327329">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="872" y="427" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1583875892586" />
+    <state x="700" y="348" width="800" height="534" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1584363327329" />
+    <state x="1087" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583862590253">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1087" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1583862590253" />
+    <state x="728" y="299" width="524" height="506" key="extract.method.dialog" timestamp="1584200171530">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="728" y="299" width="524" height="506" key="extract.method.dialog/70.27.1850.1053@70.27.1850.1053" timestamp="1584200171530" />
+    <state x="662" y="278" key="new project wizard" timestamp="1583862404250">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="278" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1583862404250" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1584614334250">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1584614334250" />
+  </component>
+</project>
