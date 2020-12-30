@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8"
+            fx:controller="sample.Controller">
+    <children>
+        <Button fx:id="options" alignment="CENTER" layoutX="345.0" layoutY="212.0" mnemonicParsing="false"
+                onAction="#options" style="-fx-background-color: BLACK;" text="Options" textFill="WHITE">
+            <font>
+                <Font size="21.0"/>
+            </font>
+        </Button>
+        <Button fx:id="exit" alignment="CENTER" layoutX="366.0" layoutY="345.0" mnemonicParsing="false" onAction="#exit"
+                style="-fx-background-color: BLACK;" text="Exit" textFill="WHITE">
+            <font>
+                <Font size="21.0"/>
+            </font>
+        </Button>
+        <Button fx:id="highscore" onAction="#highscore" alignment="CENTER" layoutX="333.0" layoutY="281.0"
+                mnemonicParsing="false" style="-fx-background-color: BLACK;" text="Highscore" textFill="WHITE">
+            <font>
+                <Font size="21.0"/>
+            </font>
+        </Button>
+        <Button fx:id="newgame" alignment="CENTER" layoutX="325.0" layoutY="138.0" mnemonicParsing="false"
+                onAction="#newgame" prefHeight="39.0" prefWidth="150.0" style="-fx-background-color: BLACK;"
+                text="New Game" textFill="WHITE">
+            <font>
+                <Font size="21.0"/>
+            </font>
+        </Button>
+        <Label alignment="CENTER" contentDisplay="CENTER" layoutX="232.0" layoutY="2.0" prefHeight="130.0"
+               prefWidth="351.0" text="Puzzle" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+               AnchorPane.topAnchor="0.0">
+            <font>
+                <Font name="Dyuthi Regular" size="80.0"/>
+            </font>
+        </Label>
+    </children>
+
+</AnchorPane>

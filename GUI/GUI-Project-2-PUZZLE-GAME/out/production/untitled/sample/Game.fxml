@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="660.0" prefWidth="600.0" style="-fx-background-color: GRAY;"
+            xmlns="http://javafx.com/javafx/8" fx:controller="sample.Game">
+    <children>
+        <AnchorPane maxHeight="-Infinity" minHeight="-Infinity" prefHeight="60.0" prefWidth="600.0"
+                    AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <children>
+                <Label fx:id="moves" alignment="CENTER" contentDisplay="CENTER" layoutX="9.0" layoutY="5.0"
+                       maxHeight="-Infinity" minHeight="-Infinity" prefHeight="60.0" prefWidth="174.0" text="Moves:  0"
+                       textFill="WHITE" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <font>
+                        <Font size="23.0"/>
+                    </font>
+                </Label>
+                <Label fx:id="mytime" alignment="CENTER" contentDisplay="CENTER" layoutX="404.0" maxHeight="-Infinity"
+                       minHeight="-Infinity" prefHeight="60.0" prefWidth="196.0" text="Time:  00:00:00"
+                       textAlignment="RIGHT" textFill="WHITE" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <font>
+                        <Font size="23.0"/>
+                    </font>
+                </Label>
+                <Label alignment="CENTER" contentDisplay="CENTER" layoutX="223.0" layoutY="11.0" maxHeight="-Infinity"
+                       minHeight="-Infinity" prefHeight="60.0" text="PUZZLE" textAlignment="CENTER" textFill="WHITE"
+                       textOverrun="WORD_ELLIPSIS" AnchorPane.leftAnchor="213.0" AnchorPane.rightAnchor="213.0"
+                       AnchorPane.topAnchor="0.0">
+                    <font>
+                        <Font name="Dyuthi Regular" size="45.0"/>
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+        <AnchorPane fx:id="panel" layoutY="60.0" maxHeight="-Infinity" maxWidth="1.7976931348623157E308"
+                    minHeight="-Infinity" prefHeight="600.0" style="-fx-background-color: GRAY;" translateX="1.0"
+                    translateY="1.0" translateZ="1.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                    AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="60.0"/>
+
+    </children>
+</AnchorPane>

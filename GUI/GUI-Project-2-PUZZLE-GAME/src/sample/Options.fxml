@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8"
+            fx:controller="sample.Options">
+    <children>
+        <Label alignment="CENTER" contentDisplay="CENTER" layoutX="-2.0" maxHeight="-Infinity" minHeight="-Infinity"
+               prefHeight="60.0" text="Options" textAlignment="CENTER" AnchorPane.leftAnchor="0.0"
+               AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <font>
+                <Font name="Dyuthi Regular" size="45.0"/>
+            </font>
+        </Label>
+        <AnchorPane layoutX="400.0" layoutY="84.0" prefHeight="100.0" prefWidth="220.0" AnchorPane.rightAnchor="40.0"
+                    AnchorPane.topAnchor="100.0">
+            <children>
+                <Label layoutY="49.0" text="Width" AnchorPane.bottomAnchor="30.0" AnchorPane.leftAnchor="0.0">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+                <Label alignment="CENTER" layoutX="26.0" text="Resolution" AnchorPane.leftAnchor="0.0"
+                       AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <font>
+                        <Font size="21.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="widtht" layoutY="82.0" prefHeight="25.0" prefWidth="53.0"
+                           style="-fx-background-color: BLACK; -fx-text-fill: WHITE;" AnchorPane.bottomAnchor="0.0"
+                           AnchorPane.leftAnchor="0.0"/>
+                <Label layoutX="100.0" layoutY="49.0" text="Height" AnchorPane.bottomAnchor="30.0"
+                       AnchorPane.rightAnchor="0.0">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="heightt" layoutX="100.0" layoutY="82.0" prefHeight="25.0" prefWidth="60.0"
+                           style="-fx-background-color: BLACK; -fx-text-fill: WHITE;" AnchorPane.bottomAnchor="0.0"
+                           AnchorPane.rightAnchor="0.0"/>
+            </children>
+        </AnchorPane>
+        <Button fx:id="apply" layoutX="461.0" layoutY="337.0" mnemonicParsing="false" onAction="#apply"
+                style="-fx-background-color: BLACK;" text="Apply" textFill="WHITE" AnchorPane.bottomAnchor="40.0"
+                AnchorPane.rightAnchor="40.0"/>
+        <AnchorPane layoutX="35.0" layoutY="112.0" prefHeight="100.0" prefWidth="220.0" AnchorPane.leftAnchor="40.0"
+                    AnchorPane.topAnchor="100.0">
+            <children>
+                <Label layoutY="49.0" text="Width tiles" AnchorPane.bottomAnchor="30.0" AnchorPane.leftAnchor="0.0">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+                <Label alignment="CENTER" layoutX="26.0" text="Tiles " AnchorPane.leftAnchor="0.0"
+                       AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <font>
+                        <Font size="21.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="tilesw" layoutY="82.0" prefHeight="25.0" prefWidth="53.0"
+                           style="-fx-background-color: BLACK; -fx-text-fill: WHITE;" AnchorPane.bottomAnchor="0.0"
+                           AnchorPane.leftAnchor="0.0"/>
+                <Label layoutX="100.0" layoutY="49.0" text="Height tiles" AnchorPane.bottomAnchor="30.0"
+                       AnchorPane.rightAnchor="0.0">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="tilesh" layoutX="100.0" layoutY="82.0" prefHeight="25.0" prefWidth="60.0"
+                           style="-fx-background-color: BLACK; -fx-text-fill: WHITE;" AnchorPane.bottomAnchor="0.0"
+                           AnchorPane.rightAnchor="0.0"/>
+            </children>
+        </AnchorPane>
+        <AnchorPane layoutX="200.0" layoutY="200.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0"
+                    AnchorPane.leftAnchor="207.0" AnchorPane.rightAnchor="207.0">
+            <children>
+                <Label alignment="CENTER" contentDisplay="CENTER" layoutX="82.0" layoutY="7.0" text="Time limit"
+                       AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <font>
+                        <Font size="21.0"/>
+                    </font>
+                </Label>
+                <Label alignment="CENTER" contentDisplay="CENTER" layoutX="41.0" layoutY="25.0" text="in minutes"
+                       AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                    <font>
+                        <Font size="21.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="timelimitt" layoutX="63.0" layoutY="50.0" prefHeight="25.0" prefWidth="60.0"
+                           promptText="2" style="-fx-background-color: BLACK; -fx-text-fill: WHITE;"
+                           AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0"/>
+            </children>
+        </AnchorPane>
+        <Button fx:id="menu" layoutX="471.0" layoutY="347.0" mnemonicParsing="false" onAction="#menu"
+                style="-fx-background-color: BLACK;" text="Menu" textFill="WHITE" AnchorPane.bottomAnchor="40.0"
+                AnchorPane.leftAnchor="40.0"/>
+    </children>
+</AnchorPane>
