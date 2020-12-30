@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3vl4DO+6qzBlhGTfcKPPDBz3x0jAOW6gBuLlp4rbgEhbzRNh6W4dbrMAGzFDcySiZJFwPgjNT6sAvW570Q04Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zacer\\source\\repos\\APBD_Tutorial_02\\TASK2 APBD s16941\\TASK2 APBD s16941.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zacer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

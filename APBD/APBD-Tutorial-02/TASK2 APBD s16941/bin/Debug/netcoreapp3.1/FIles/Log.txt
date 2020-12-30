@@ -1,0 +1,23 @@
+3/21/2020 12:47:39 PM ERR empty information in line Zbigniew,Kowalski35,Sztuka Nowych Mediów dzienne,,4450,2000-02-12,35@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:47:39 PM ERR empty information in line Karolina,Nowak36,Sztuka Nowych Mediów dzienne,,4455,2000-02-12,36@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:47:39 PM ERR empty information in line Aleksandra,,Sztuka Nowych Mediów dzienne,Dzienne,4434,2000-02-12,42@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:47:39 PM ERR empty information in line Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+3/21/2020 12:47:39 PM ERR empty information in line Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+3/21/2020 12:47:39 PM Provided file type is not supported : jsson3/21/2020 12:48:22 PM ERR File not found (.?+_data.csv)
+3/21/2020 12:49:19 PM ERR File not found (.?+_data.csv)
+3/21/2020 12:49:42 PM ERR empty information in line Zbigniew,Kowalski35,Sztuka Nowych Mediów dzienne,,4450,2000-02-12,35@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:49:42 PM ERR empty information in line Karolina,Nowak36,Sztuka Nowych Mediów dzienne,,4455,2000-02-12,36@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:49:42 PM ERR empty information in line Aleksandra,,Sztuka Nowych Mediów dzienne,Dzienne,4434,2000-02-12,42@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:49:42 PM ERR empty information in line Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+3/21/2020 12:49:42 PM ERR empty information in line Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+3/21/2020 12:49:42 PM Provided file type is not supported : jsson
+3/21/2020 12:51:13 PM ERR empty information in line Zbigniew,Kowalski35,Sztuka Nowych Mediów dzienne,,4450,2000-02-12,35@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:51:13 PM ERR empty information in line Karolina,Nowak36,Sztuka Nowych Mediów dzienne,,4455,2000-02-12,36@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:51:13 PM ERR empty information in line Aleksandra,,Sztuka Nowych Mediów dzienne,Dzienne,4434,2000-02-12,42@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:51:13 PM ERR empty information in line Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+3/21/2020 12:51:13 PM ERR empty information in line Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+3/21/2020 12:51:46 PM ERR empty information in line Zbigniew,Kowalski35,Sztuka Nowych Mediów dzienne,,4450,2000-02-12,35@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:51:46 PM ERR empty information in line Karolina,Nowak36,Sztuka Nowych Mediów dzienne,,4455,2000-02-12,36@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:51:46 PM ERR empty information in line Aleksandra,,Sztuka Nowych Mediów dzienne,Dzienne,4434,2000-02-12,42@pjwstk.edu.pl,Alina,Adam
+3/21/2020 12:51:46 PM ERR empty information in line Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+3/21/2020 12:51:46 PM ERR empty information in line Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,

@@ -1,0 +1,331 @@
+{
+	"info": {
+		"_postman_id": "8d73fee7-be86-40fc-8268-4835c2f2e5b1",
+		"name": "APBD 7",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Promote Student",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:50363/api/enrollment/promotion",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"enrollment",
+						"promotion"
+					]
+				},
+				"description": "dd"
+			},
+			"response": []
+		},
+		{
+			"name": "Promote Student With Authorization",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6InM1NTUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiS2ltb25vIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiZW1wbG95ZWUiLCJleHAiOjE1ODc4MzExNTQsImlzcyI6IkRvbWluaWsiLCJhdWQiOiJlbXBsb3llZSJ9.g8awG8HfQh_YT-bhUPFfdC7B056ebcW5FUR4YeaVc2c",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:50363/api/enrollment/promotion",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"enrollment",
+						"promotion"
+					]
+				},
+				"description": "dd"
+			},
+			"response": []
+		},
+		{
+			"name": "Enroll Student",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "index",
+						"value": "s555",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:50363/api/enrollment",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"enrollment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Student Secured",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "index",
+						"value": "s555",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:50363/api/student/secured/s555",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"student",
+						"secured",
+						"s555"
+					],
+					"query": [
+						{
+							"key": "index",
+							"value": "s11",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Students",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "index",
+						"value": "s555",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "http://localhost:50363/api/student",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"student"
+					],
+					"query": [
+						{
+							"key": "index",
+							"value": "s555",
+							"disabled": true
+						}
+					]
+				},
+				"description": "Create student POST\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:50363/api/enrollment/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"enrollment",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "RefreshToken",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:50363/api/enrollment/refresh/22286de0-62ff-4c03-bb71-9e84ba1f91c9",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"enrollment",
+						"refresh",
+						"22286de0-62ff-4c03-bb71-9e84ba1f91c9"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddStudent",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:50363/api/student/add",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"student",
+						"add"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Student",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:50363/api/student/delete/s566",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"student",
+						"delete",
+						"s566"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Student",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:50363/api/student/update",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50363",
+					"path": [
+						"api",
+						"student",
+						"update"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

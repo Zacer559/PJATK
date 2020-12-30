@@ -1,0 +1,13 @@
+{
+  Time: "2020-04-17T09:53:56.2997102Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-17T09:54:02.9078697Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}

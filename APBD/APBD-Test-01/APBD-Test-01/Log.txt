@@ -1,0 +1,581 @@
+TIME : 4/30/2020 1:33:46 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:33:50 PM
+PATH: /api/tasks/1/1
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:33:52 PM
+PATH: /api/tasks/1/1
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:33:53 PM
+PATH: /api/tasks/1/1
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:33:56 PM
+PATH: /api/tasks/1/1
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:55:27 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:55:48 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 1:55:56 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=t
+BODY: 
+
+
+TIME : 4/30/2020 1:55:57 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=t
+BODY: 
+
+
+TIME : 4/30/2020 1:55:58 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=t
+BODY: 
+
+
+TIME : 4/30/2020 1:56:47 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:56:48 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=t
+BODY: 
+
+
+TIME : 4/30/2020 1:56:55 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 1:56:57 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 1:56:59 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:59:50 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 1:59:52 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 1:59:56 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2222
+BODY: 
+
+
+TIME : 4/30/2020 2:00:00 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=dsads
+BODY: 
+
+
+TIME : 4/30/2020 2:01:49 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:01:51 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=dsads
+BODY: 
+
+
+TIME : 4/30/2020 2:01:52 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=dsads
+BODY: 
+
+
+TIME : 4/30/2020 2:01:57 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 2:01:59 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=22222
+BODY: 
+
+
+TIME : 4/30/2020 2:02:02 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=3
+BODY: 
+
+
+TIME : 4/30/2020 2:07:36 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:07:44 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=3
+BODY: 
+
+
+TIME : 4/30/2020 2:09:29 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:09:31 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=3
+BODY: 
+
+
+TIME : 4/30/2020 2:09:34 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=3
+BODY: 
+
+
+TIME : 4/30/2020 2:09:34 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=3
+BODY: 
+
+
+TIME : 4/30/2020 2:09:49 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=creator&indexNumber=3
+BODY: 
+
+
+TIME : 4/30/2020 2:09:54 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=creato&indexNumber=3
+BODY: 
+
+
+TIME : 4/30/2020 2:09:59 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=creator&indexNumber=3
+BODY: 
+
+
+TIME : 4/30/2020 2:10:33 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=creator&indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 2:10:37 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 2:10:41 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=11
+BODY: 
+
+
+TIME : 4/30/2020 2:10:43 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 2:13:05 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:13:05 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 2:13:06 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?type=assigned&indexNumber=1
+BODY: 
+
+
+TIME : 4/30/2020 2:13:15 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:13:16 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:14:22 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:14:23 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:14:24 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:14:24 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:14:25 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:14:26 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:14:57 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:15:37 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:15:39 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:15:50 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:15:51 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:15:55 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:16:46 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:16:47 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:17:45 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:17:47 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:18:55 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:18:56 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:24:40 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:25:11 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:25:12 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2
+BODY: 
+
+
+TIME : 4/30/2020 2:25:27 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:27:41 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:27:42 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:34:52 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:34:55 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:35:20 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:35:20 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:36:08 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:36:12 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:36:29 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:36:29 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:38:01 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 2:38:01 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=creator
+BODY: 
+
+
+TIME : 4/30/2020 2:38:14 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=2&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 2:38:17 PM
+PATH: /api/team-members/3/tasks
+METHOD: GET
+QUERY: ?indexNumber=1&type=assigned
+BODY: 
+
+
+TIME : 4/30/2020 3:10:29 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 3:14:58 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 3:16:32 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/30/2020 3:20:49 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+

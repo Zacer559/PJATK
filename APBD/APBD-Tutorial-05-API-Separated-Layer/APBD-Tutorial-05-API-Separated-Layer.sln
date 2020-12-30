@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APBD-Tutorial-05-API-Separated-Layer", "APBD-Tutorial-05-API-Separated-Layer\APBD-Tutorial-05-API-Separated-Layer.csproj", "{DF507693-1D8D-4717-8EEB-76EF7FBB2617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF507693-1D8D-4717-8EEB-76EF7FBB2617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF507693-1D8D-4717-8EEB-76EF7FBB2617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF507693-1D8D-4717-8EEB-76EF7FBB2617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF507693-1D8D-4717-8EEB-76EF7FBB2617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0BF771-3BFB-4925-B3F9-1E857F6E9047}
+	EndGlobalSection
+EndGlobal

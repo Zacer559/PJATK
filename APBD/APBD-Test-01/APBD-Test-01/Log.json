@@ -1,0 +1,499 @@
+{
+  Time: "2020-04-30T13:33:46.5036778Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:33:50.2520568Z",
+  Path: "/api/tasks/1/1",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:33:52.5785001Z",
+  Path: "/api/tasks/1/1",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:33:53.5868929Z",
+  Path: "/api/tasks/1/1",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:33:56.9532264Z",
+  Path: "/api/tasks/1/1",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:55:27.8965254Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:55:48.8140969Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T13:55:56.9943103Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=t",
+  Body: ""
+}{
+  Time: "2020-04-30T13:55:57.7585768Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=t",
+  Body: ""
+}{
+  Time: "2020-04-30T13:55:58.2213413Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=t",
+  Body: ""
+}{
+  Time: "2020-04-30T13:56:47.7031453Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:56:48.2777384Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=t",
+  Body: ""
+}{
+  Time: "2020-04-30T13:56:55.9822708Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T13:56:57.0036438Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T13:56:59.0433358Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:59:50.2212759Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T13:59:52.5479643Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T13:59:56.9956002Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2222",
+  Body: ""
+}{
+  Time: "2020-04-30T14:00:00.6480572Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=dsads",
+  Body: ""
+}{
+  Time: "2020-04-30T14:01:49.5046646Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:01:51.1729118Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=dsads",
+  Body: ""
+}{
+  Time: "2020-04-30T14:01:52.8194198Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=dsads",
+  Body: ""
+}{
+  Time: "2020-04-30T14:01:57.044553Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T14:01:59.7424458Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=22222",
+  Body: ""
+}{
+  Time: "2020-04-30T14:02:02.7965375Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=3",
+  Body: ""
+}{
+  Time: "2020-04-30T14:07:36.3642894Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:07:44.3190297Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=3",
+  Body: ""
+}{
+  Time: "2020-04-30T14:09:29.2293083Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:09:31.4352914Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=3",
+  Body: ""
+}{
+  Time: "2020-04-30T14:09:34.0328564Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=3",
+  Body: ""
+}{
+  Time: "2020-04-30T14:09:34.8491496Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=3",
+  Body: ""
+}{
+  Time: "2020-04-30T14:09:49.837504Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=creator&indexNumber=3",
+  Body: ""
+}{
+  Time: "2020-04-30T14:09:54.4575695Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=creato&indexNumber=3",
+  Body: ""
+}{
+  Time: "2020-04-30T14:09:59.0912405Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=creator&indexNumber=3",
+  Body: ""
+}{
+  Time: "2020-04-30T14:10:33.0976693Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=creator&indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T14:10:37.57091Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T14:10:41.3077413Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=11",
+  Body: ""
+}{
+  Time: "2020-04-30T14:10:43.4978164Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T14:13:05.3165176Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:13:05.6797069Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T14:13:06.625623Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?type=assigned&indexNumber=1",
+  Body: ""
+}{
+  Time: "2020-04-30T14:13:15.28769Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:13:16.0123513Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:14:22.2656973Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:14:23.464927Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:14:24.3461474Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:14:24.9575504Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:14:25.5624852Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:14:26.1245412Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:14:57.5363841Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:15:37.249807Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:15:39.1315466Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:15:50.7321177Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:15:51.5956165Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:15:55.2416544Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:16:46.6821826Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:16:47.9540623Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:17:45.8297362Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:17:47.4929124Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:18:55.8587921Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:18:56.4582973Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:24:40.1827593Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:25:11.3744982Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:25:12.0703743Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2",
+  Body: ""
+}{
+  Time: "2020-04-30T14:25:27.0254796Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:27:41.29731Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:27:42.6881531Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:34:52.7115563Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:34:55.0655777Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:35:20.2606328Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:35:20.5718129Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:36:08.401842Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:36:12.3732264Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:36:29.4160409Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:36:29.7435639Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:38:01.2059827Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T14:38:01.8340032Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=creator",
+  Body: ""
+}{
+  Time: "2020-04-30T14:38:14.2957547Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=2&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T14:38:17.7106048Z",
+  Path: "/api/team-members/3/tasks",
+  Method: "GET",
+  Query: "?indexNumber=1&type=assigned",
+  Body: ""
+}{
+  Time: "2020-04-30T15:10:29.1333309Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T15:14:58.7780153Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T15:16:32.6071758Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-30T15:20:49.5409768Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}

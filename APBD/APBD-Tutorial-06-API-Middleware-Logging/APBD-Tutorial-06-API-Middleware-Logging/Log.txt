@@ -1,0 +1,14 @@
+TIME : 4/17/2020 9:53:56 AM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/17/2020 9:54:02 AM
+PATH: /api/student
+METHOD: GET
+QUERY: 
+BODY: 
+
+

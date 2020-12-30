@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APBD_Tutorial_09_LINQ_Introduction", "APBD_Tutorial_09_LINQ_Introduction\APBD_Tutorial_09_LINQ_Introduction.csproj", "{BBCF6EB6-CE2E-4972-B649-A8BAB44C9B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCF6EB6-CE2E-4972-B649-A8BAB44C9B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCF6EB6-CE2E-4972-B649-A8BAB44C9B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCF6EB6-CE2E-4972-B649-A8BAB44C9B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCF6EB6-CE2E-4972-B649-A8BAB44C9B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C03CA67-0122-4BB5-9567-AC164B622A88}
+	EndGlobalSection
+EndGlobal

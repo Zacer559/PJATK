@@ -1,0 +1,2323 @@
+TIME : 4/25/2020 1:48:35 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 1:48:38 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 1:49:18 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 1:49:20 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 2:25:56 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 2:25:59 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 2:26:11 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 2:29:30 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 2:29:35 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 2:29:40 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 2
+}
+
+
+TIME : 4/25/2020 2:29:46 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 2:29:51 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 2:30:12 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 2:30:13 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 2:30:16 PM
+PATH: /api/enrollment
+METHOD: POST
+QUERY: 
+BODY: {
+    "Name": "Franek",
+    "Study": "IT",
+    "Surname": "Kimono",
+    "IndexNumber": "s566",
+    "BirthDate": "2020-10-20"
+}
+
+
+TIME : 4/25/2020 2:30:18 PM
+PATH: /api/enrollment
+METHOD: POST
+QUERY: 
+BODY: {
+    "Name": "Franek",
+    "Study": "IT",
+    "Surname": "Kimono",
+    "IndexNumber": "s566",
+    "BirthDate": "2020-10-20"
+}
+
+
+TIME : 4/25/2020 2:30:20 PM
+PATH: /api/enrollment
+METHOD: POST
+QUERY: 
+BODY: {
+    "Name": "Franek",
+    "Study": "IT",
+    "Surname": "Kimono",
+    "IndexNumber": "s566",
+    "BirthDate": "2020-10-20"
+}
+
+
+TIME : 4/25/2020 2:30:25 PM
+PATH: /api/student/secured/s555
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 2:30:29 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 2:30:34 PM
+PATH: /api/student/secured/s555
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 2:30:41 PM
+PATH: /api/student
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:18:32 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:18:56 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:19:07 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:19:38 PM
+PATH: /api/enrollment/refresh-token/1
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:19:40 PM
+PATH: /api/enrollment/refresh-token/1
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:19:44 PM
+PATH: /api/enrollment/refresh-token/
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:19:47 PM
+PATH: /api/enrollment/refresh-token/1
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:19:55 PM
+PATH: /api/enrollment/refresh-token/2
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:19:58 PM
+PATH: /api/enrollment/refresh-token/s555
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:21:05 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555"
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:21:22 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:23:00 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:23:19 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:23:19 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:24:01 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:24:03 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:24:40 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:28:27 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:28:29 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:29:15 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:30:47 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:30:47 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:31:41 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:31:43 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:33:07 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:33:08 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:34:15 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:34:17 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:39:40 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:39:52 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:43:11 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:43:43 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:46:27 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:46:36 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:47:21 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:49:26 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:49:28 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:49:38 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:50:49 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:55:01 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:59:14 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 3:59:16 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:59:49 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:59:50 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:59:50 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:59:51 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 3:59:52 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:00:45 PM
+PATH: /api/enrollment/promotion
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:01:02 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:01:08 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:01:17 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:01:25 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:02:17 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:02:35 PM
+PATH: /api/enrollment/
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:02:48 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:03:51 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:03:54 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:04:01 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:04:02 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:04:03 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:04:04 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:04:46 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:05:47 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:05:48 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:05:48 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:05:49 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:05:49 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:05:50 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:05:51 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:05:59 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:45 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:46 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:47 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:48 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:48 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:49 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:49 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:52 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:52 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:53 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:53 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:07:54 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:08:03 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:08:04 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:08:05 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:08:16 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:08:17 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:08:18 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:08:18 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:08:19 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:08:41 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:08:43 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:08:54 PM
+PATH: /api/enrollment/
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:09:07 PM
+PATH: /api/enrollment/
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:11:27 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:11:30 PM
+PATH: /api/enrollment/
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:11:32 PM
+PATH: /api/enrollment/
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:11:34 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:11:41 PM
+PATH: /api/enrollment/
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:11:48 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:11:49 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:11:52 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:11:53 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:13:32 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:13:34 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:14:03 PM
+PATH: /api/enrollment/refresh-token/d91c647b-cb46-4aca-a0c3-27d4c17be9e7
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:14:55 PM
+PATH: /api/enrollment/refresh-token/d91c647b-cb46-4aca-a0c3-27d4c17be9e7
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:15:12 PM
+PATH: /api/enrollment/refresh-token/d91c647b-cb46-4aca-a0c3-27d4c17be9e7
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:16:26 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:16:40 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:16:44 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:17:27 PM
+PATH: /api/enrollment/refresh-token/
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:17:31 PM
+PATH: /api/enrollment/refresh-token/
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:17:36 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:17:37 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:18:03 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:18:16 PM
+PATH: /api/enrollment/refresh-token/07145958-ffdf-4f13-9f75-420a013c19d9
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:18:43 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:18:50 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:19:02 PM
+PATH: /api/enrollment/refresh-token/a41fd36c-fa90-4ed1-8b77-a7a581a5627d
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:31 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:32 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:19:39 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:42 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:42 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:43 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:44 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:44 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:45 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:45 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:46 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:46 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:47 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:47 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:48 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:48 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:49 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:50 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:50 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:51 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:51 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:19:52 PM
+PATH: /api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:21:56 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:21:59 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:22:07 PM
+PATH: /api/enrollment/refresh-token/de86d532-aa00-44b9-a499-2feb5effbdb8
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:23:34 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:23:38 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:23:44 PM
+PATH: /api/enrollment/refresh-token/c9fd8ece-f4d8-4536-add9-09099a34d01f
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:24:02 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:24:03 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:24:09 PM
+PATH: /api/enrollment/refresh-token/bb8d7c78-0aa7-48d0-acc3-28d0a61f962d
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:24:48 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:24:56 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:25:02 PM
+PATH: /api/enrollment/refresh-token/36eb4994-0387-4de0-be54-d1fd397ac847
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:26:44 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:26:49 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:26:57 PM
+PATH: /api/enrollment/refresh-token/83bb7dda-3a91-4633-94f0-bf48ccd53a28
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:28:04 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:28:12 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:28:19 PM
+PATH: /api/enrollment/refresh-token/1ff9d520-8ff7-4bf0-829b-b7e82e1ced53
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:28:47 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:28:49 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:28:54 PM
+PATH: /api/enrollment/refresh-token/dba717aa-949f-4a1a-99ca-f51345506e6c
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:29:18 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:29:20 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:29:27 PM
+PATH: /api/enrollment/refresh-token/1a85b8c5-e7ae-4445-8646-853f3c46d95c
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:29:35 PM
+PATH: /api/enrollment/refresh-token/1a85b8c5-e7ae-4445-8646-853f3c46d95c
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:29:36 PM
+PATH: /api/enrollment/refresh-token/1a85b8c5-e7ae-4445-8646-853f3c46d95c
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:30:27 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:30:29 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:30:41 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:30:43 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:30:52 PM
+PATH: /api/enrollment/refresh-token/9a9e4744-bd72-4e5f-acb8-70d0bedf769c
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:30:58 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:30:59 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:31:00 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:31:01 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:31:01 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:31:02 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:31:02 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:31:02 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:31:03 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:31:11 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 4:37:18 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:37:20 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 4:38:20 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 4:38:21 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:14:27 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:14:30 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:14:51 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s565",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:15:44 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:16:41 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:16:42 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s565",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:17:41 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:17:45 PM
+PATH: /api/enrollment/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s565",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:36:48 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:36:52 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s565",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:37:00 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:37:03 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:37:47 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:37:50 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:37:54 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:38:17 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:38:19 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:38:21 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:38:23 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:38:27 PM
+PATH: /api/enrollment
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:38:39 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s565",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:38:47 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:42:34 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:42:34 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:42:41 PM
+PATH: /api/enrollment/refresh-token/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:43:17 PM
+PATH: /api/enrollment/refresh/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:43:20 PM
+PATH: /api/enrollment/refresh/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:44:00 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:44:01 PM
+PATH: /api/enrollment/refresh/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:44:02 PM
+PATH: /api/enrollment/refresh/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:44:04 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:44:12 PM
+PATH: /api/enrollment/refresh/22286de0-62ff-4c03-bb71-9e84ba1f91c9
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:44:13 PM
+PATH: /api/enrollment/refresh/22286de0-62ff-4c03-bb71-9e84ba1f91c9
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:44:17 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:44:22 PM
+PATH: /api/enrollment/refresh/7d42e6ac-8754-4d0b-a6df-20cb19308219
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:44:31 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 5:44:33 PM
+PATH: /api/enrollment/
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 5:44:46 PM
+PATH: /api/enrollment/refresh/7d42e6ac-8754-4d0b-a6df-20cb19308219
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:48:18 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:48:21 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:48:22 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:48:24 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:48:25 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:48:25 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:48:32 PM
+PATH: /api/enrollment/refresh/c14d1e9e-00f2-4cc3-b37d-6603cc9c9f8b
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:54:52 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:56:10 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:56:11 PM
+PATH: /api/enrollment/refresh/c14d1e9e-00f2-4cc3-b37d-6603cc9c9f8b
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 5:56:15 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 5:56:21 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 6:06:48 PM
+PATH: /weatherforecast
+METHOD: GET
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 6:06:49 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 6:06:50 PM
+PATH: /api/enrollment/login
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login": "s555",
+	"Password": "Pass"
+}
+
+
+TIME : 4/25/2020 6:07:03 PM
+PATH: /api/enrollment/refresh/5f475639-6721-474a-bee8-8e9f0f132eb1
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 6:07:09 PM
+PATH: /api/enrollment/refresh/5f475639-6721-474a-bee8-8e9f0f132eb1
+METHOD: POST
+QUERY: 
+BODY: 
+
+
+TIME : 4/25/2020 6:07:14 PM
+PATH: /api/enrollment/promotion
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "Art",
+    "Semester" : 1
+}
+
+
+TIME : 4/25/2020 6:07:19 PM
+PATH: /api/enrollment/
+METHOD: POST
+QUERY: 
+BODY: {
+    "Study": "IT",
+    "Semester" : 1
+}
+
+

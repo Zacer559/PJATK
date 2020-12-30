@@ -1,0 +1,2659 @@
+{
+  Time: "2020-04-25T13:48:35.3632593Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T13:48:38.1983689Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T15:18:32.5760739Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:18:56.07729Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:19:07.160746Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:19:38.4576711Z",
+  Path: "/api/enrollment/refresh-token/1",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:19:40.0762967Z",
+  Path: "/api/enrollment/refresh-token/1",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:19:44.2256426Z",
+  Path: "/api/enrollment/refresh-token/",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:19:47.1774052Z",
+  Path: "/api/enrollment/refresh-token/1",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:19:55.1331729Z",
+  Path: "/api/enrollment/refresh-token/2",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:19:58.6800747Z",
+  Path: "/api/enrollment/refresh-token/s555",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:21:05.1427158Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\"\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:21:22.9631142Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:23:00.0599735Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:23:19.1404342Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:23:19.9175251Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:24:01.329751Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:24:03.0440729Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:24:40.8542171Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:28:27.8380458Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:28:29.4883563Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:29:15.4944618Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:30:47.4429388Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:30:47.9513961Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:31:41.3293866Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:31:43.0803242Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:33:07.5845227Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:33:08.3742175Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:34:15.8549105Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:34:17.3731334Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:39:40.6665869Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:39:52.5936611Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:43:11.2749521Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:43:43.1723956Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:46:27.6526396Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:46:36.6634436Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:47:21.5752716Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:49:26.2219Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:49:28.2471577Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:49:38.456614Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:50:49.0649848Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:55:01.0816722Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:59:14.3352428Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T15:59:16.8004764Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:59:49.2471603Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:59:50.0354853Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:59:50.6884038Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:59:51.3786075Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T15:59:52.0943926Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:00:45.4871911Z",
+  Path: "/api/enrollment/promotion",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:01:02.4771168Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:01:08.6826238Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:01:17.7446652Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"IT\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:01:25.1557065Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"IT\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:02:17.7891919Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"IT\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:02:35.0590077Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"IT\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:02:48.1933369Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:03:51.3716279Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:03:54.4267576Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:04:01.8432503Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:04:02.7980174Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:04:03.621769Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:04:04.5675695Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:04:46.6647558Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:05:47.3017537Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:05:48.2113272Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:05:48.9101648Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:05:49.4315532Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:05:49.9213658Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:05:50.396834Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:05:51.0483382Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:05:59.7601328Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:45.8164727Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:46.9640512Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:47.6912345Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:48.3899557Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:48.935918Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:49.4197415Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:49.8627577Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:52.0098949Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:52.6927474Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:53.3103841Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:53.938845Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:07:54.5316073Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:08:03.6762688Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:08:04.4955237Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:08:05.3912024Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:08:16.0978991Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:08:17.5207427Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:08:18.1534186Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:08:18.6923549Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:08:19.2320807Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:08:41.3223622Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:08:43.0984143Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:08:54.5621042Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:09:07.2837675Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:11:27.8412559Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:11:30.5789703Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:11:32.3014739Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:11:34.2919107Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:11:41.5321176Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:11:48.32306Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:11:49.6891685Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:11:52.2554403Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:11:53.1888808Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:13:32.7681721Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:13:34.4178785Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:14:03.519235Z",
+  Path: "/api/enrollment/refresh-token/d91c647b-cb46-4aca-a0c3-27d4c17be9e7",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:14:55.9566687Z",
+  Path: "/api/enrollment/refresh-token/d91c647b-cb46-4aca-a0c3-27d4c17be9e7",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:15:12.5448566Z",
+  Path: "/api/enrollment/refresh-token/d91c647b-cb46-4aca-a0c3-27d4c17be9e7",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:16:26.937485Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:16:40.1719155Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:16:44.4128602Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:17:27.9657982Z",
+  Path: "/api/enrollment/refresh-token/",
+  Method: "POST",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:17:31.3844157Z",
+  Path: "/api/enrollment/refresh-token/",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:17:36.7639094Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:17:37.8083563Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:18:03.9607454Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:18:16.1649637Z",
+  Path: "/api/enrollment/refresh-token/07145958-ffdf-4f13-9f75-420a013c19d9",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:18:43.8274216Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:18:50.6304227Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:19:02.2454376Z",
+  Path: "/api/enrollment/refresh-token/a41fd36c-fa90-4ed1-8b77-a7a581a5627d",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:31.5183244Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:32.6358357Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:19:39.571695Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:42.0955827Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:42.8984721Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:43.6339263Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:44.3137695Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:44.8216844Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:45.2987888Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:45.7149428Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:46.1858189Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:46.6763274Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:47.2450691Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:47.6984259Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:48.1436942Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:48.7464496Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:49.3774173Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:50.1352831Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:50.6872075Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:51.2947644Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:51.8542174Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:19:52.3690094Z",
+  Path: "/api/enrollment/refresh-token/39ddb76d-0cc3-430c-a3dc-f7665721170f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:21:56.2399806Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:21:59.9713023Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:22:07.4665752Z",
+  Path: "/api/enrollment/refresh-token/de86d532-aa00-44b9-a499-2feb5effbdb8",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:23:34.6026515Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:23:38.1237038Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:23:44.9252155Z",
+  Path: "/api/enrollment/refresh-token/c9fd8ece-f4d8-4536-add9-09099a34d01f",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:24:02.1199566Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:24:03.8981958Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:24:09.6893083Z",
+  Path: "/api/enrollment/refresh-token/bb8d7c78-0aa7-48d0-acc3-28d0a61f962d",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:24:48.3050496Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:24:56.2408777Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:25:02.4121152Z",
+  Path: "/api/enrollment/refresh-token/36eb4994-0387-4de0-be54-d1fd397ac847",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:26:44.2095818Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:26:49.1811398Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:26:57.2860353Z",
+  Path: "/api/enrollment/refresh-token/83bb7dda-3a91-4633-94f0-bf48ccd53a28",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:28:04.4482608Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:28:12.5294011Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:28:19.7634734Z",
+  Path: "/api/enrollment/refresh-token/1ff9d520-8ff7-4bf0-829b-b7e82e1ced53",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:28:47.2634399Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:28:49.2184804Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:28:54.6691577Z",
+  Path: "/api/enrollment/refresh-token/dba717aa-949f-4a1a-99ca-f51345506e6c",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:29:18.4699007Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:29:20.919229Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:29:27.693558Z",
+  Path: "/api/enrollment/refresh-token/1a85b8c5-e7ae-4445-8646-853f3c46d95c",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:29:35.4125044Z",
+  Path: "/api/enrollment/refresh-token/1a85b8c5-e7ae-4445-8646-853f3c46d95c",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:29:36.8206473Z",
+  Path: "/api/enrollment/refresh-token/1a85b8c5-e7ae-4445-8646-853f3c46d95c",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:30:27.4852737Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:30:29.9516907Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:30:41.4810476Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:30:43.1572623Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:30:52.7293481Z",
+  Path: "/api/enrollment/refresh-token/9a9e4744-bd72-4e5f-acb8-70d0bedf769c",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:30:58.6291213Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:30:59.9011905Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:31:00.5504345Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:31:01.1248464Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:31:01.6059764Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:31:02.044846Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:31:02.4445833Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:31:02.7876436Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:31:03.1231235Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:31:11.6512516Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T16:37:18.3524518Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:37:20.0083591Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T16:38:20.1451836Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T16:38:21.4595833Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:14:27.1075828Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:14:30.1839537Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:14:51.3419978Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s565\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:15:44.6091477Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:16:41.7153683Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:16:42.6364615Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s565\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:17:41.549027Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:17:45.5146531Z",
+  Path: "/api/enrollment/",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s565\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:36:48.9960078Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:36:52.6656442Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s565\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:37:00.1636238Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:37:03.8984344Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:37:47.5118621Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:37:50.4969087Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:37:54.5165228Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:38:17.2437939Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:38:19.672381Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:38:21.68118Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:38:23.9790536Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:38:27.6381776Z",
+  Path: "/api/enrollment",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:38:39.2687397Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s565\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:38:47.1102458Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:42:34.1291295Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:42:34.7849049Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:42:41.8811106Z",
+  Path: "/api/enrollment/refresh-token/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:43:17.6138951Z",
+  Path: "/api/enrollment/refresh/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:43:20.1069053Z",
+  Path: "/api/enrollment/refresh/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:44:00.2272317Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:44:01.4687757Z",
+  Path: "/api/enrollment/refresh/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:44:02.7177432Z",
+  Path: "/api/enrollment/refresh/e595dd95-e09a-44fc-a3d5-06ac9d6c1ce8",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:44:04.7387452Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:44:12.2612973Z",
+  Path: "/api/enrollment/refresh/22286de0-62ff-4c03-bb71-9e84ba1f91c9",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:44:13.0770281Z",
+  Path: "/api/enrollment/refresh/22286de0-62ff-4c03-bb71-9e84ba1f91c9",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:44:17.1195556Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:44:22.4144993Z",
+  Path: "/api/enrollment/refresh/7d42e6ac-8754-4d0b-a6df-20cb19308219",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:44:31.2268217Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T17:44:33.5830958Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"IT\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T17:44:46.2070808Z",
+  Path: "/api/enrollment/refresh/7d42e6ac-8754-4d0b-a6df-20cb19308219",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:48:18.9545942Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:48:21.1539293Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:48:22.318401Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:48:24.4546359Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:48:25.2075131Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:48:25.8659365Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:48:32.6500172Z",
+  Path: "/api/enrollment/refresh/c14d1e9e-00f2-4cc3-b37d-6603cc9c9f8b",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:54:52.8609334Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:56:10.5145626Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:56:11.5567453Z",
+  Path: "/api/enrollment/refresh/c14d1e9e-00f2-4cc3-b37d-6603cc9c9f8b",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T17:56:15.4669796Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T17:56:21.0568927Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T18:06:48.5926638Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T18:06:49.5460171Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T18:06:50.6096965Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-04-25T18:07:03.7170539Z",
+  Path: "/api/enrollment/refresh/5f475639-6721-474a-bee8-8e9f0f132eb1",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T18:07:09.9153733Z",
+  Path: "/api/enrollment/refresh/5f475639-6721-474a-bee8-8e9f0f132eb1",
+  Method: "POST",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-04-25T18:07:14.4401985Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-04-25T18:07:19.8045379Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"IT\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T14:15:44.5555228Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T14:15:52.3125622Z",
+  Path: "/api/student/secured/s555",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T14:16:06.9916955Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T14:16:33.0317393Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T14:16:36.8767708Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T14:43:02.2311468Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T14:54:52.0945819Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T14:55:03.0470231Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-05-14T14:55:17.2761051Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T14:55:30.8083373Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"IT\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T14:55:31.8279617Z",
+  Path: "/api/enrollment/",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"IT\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T15:23:09.5200184Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:23:12.3177971Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:23:18.7511928Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:23:19.5131272Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:23:20.1981074Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:23:21.0962372Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:23:39.5248364Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:23:41.3141803Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:25:04.3441128Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:27:05.4664789Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:33:51.4998953Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:33:56.203454Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:37:18.1094835Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:48:35.9292115Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:48:40.7708621Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:49:17.2824434Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:49:19.4967089Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:49:21.335582Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:49:22.1142501Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:49:22.9633556Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:49:23.5534295Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:53:23.4721848Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:53:27.0656678Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:53:29.724055Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:53:31.2068311Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:53:31.8853772Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:53:32.3920074Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:53:32.8669463Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T15:53:33.3591615Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:01:49.4204522Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:01:53.0517079Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:01:55.241099Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:09:02.864642Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:09:09.5926945Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:09:13.4675531Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:10:00.275448Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:10:04.0560247Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:12:47.8299822Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:13:25.4568782Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:13:47.1021852Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:13:48.1624273Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:22:34.8853353Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:22:52.0035404Z",
+  Path: "/api/student/add",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:02.8571571Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:04.1398911Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:04.7732476Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:05.5798045Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:06.2259618Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:07.5454125Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:27.9430694Z",
+  Path: "/api/student/add",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:43.3441104Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:50.2603986Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:53.2277202Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:55.8170991Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:23:56.6200723Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:24:02.8440423Z",
+  Path: "/api/student",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:24:03.8684996Z",
+  Path: "/api/student",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:24:04.5921227Z",
+  Path: "/api/student",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:24:08.7662176Z",
+  Path: "/api/student",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:24:22.0255615Z",
+  Path: "/api/student/add",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:24:41.7242907Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:24:42.2446547Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:28:04.5626977Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:35:27.3311591Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:35:40.0592939Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:35:57.8181145Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:36:51.7250107Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": \"1\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:36:59.3522572Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:04.0736111Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:06.1175604Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:10.5150108Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:11.368778Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:12.1017895Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:12.8330289Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:13.5007609Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:14.3454921Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:15.628434Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:16.2573573Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:16.7534405Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:37:37.4358792Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:38:01.9161488Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:38:03.7224432Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:38:04.4790268Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:38:05.2165205Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:38:05.7987594Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:39:35.1502666Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:39:39.2174476Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:41:47.5864632Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:41:56.3574587Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:41:58.5343202Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:41:59.7203141Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:42:00.2828196Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:42:45.8739587Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:42:46.5966847Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:48:30.8730932Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T16:48:51.7900575Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:48:54.3345097Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:49:29.5693517Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T16:49:36.2993059Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s556\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-05-14T16:49:43.9288225Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s566\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-05-14T17:00:45.4093849Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T17:00:47.9889568Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T17:00:50.0301372Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T17:12:08.1803549Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T17:12:20.2653854Z",
+  Path: "/api/student/delete",
+  Method: "DELETE",
+  Query: "",
+  Body: "{\r\n    \"IndexNumber\": \"s566\",\r\n}"
+}{
+  Time: "2020-05-14T17:12:51.1202788Z",
+  Path: "/api/student/delete/s566",
+  Method: "DELETE",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T17:12:54.0410945Z",
+  Path: "/api/student/delete/s566",
+  Method: "DELETE",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T17:12:55.2072171Z",
+  Path: "/api/student/delete/s566",
+  Method: "DELETE",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T17:12:58.9898625Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T17:13:14.2964965Z",
+  Path: "/api/student/delete/s566",
+  Method: "DELETE",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T17:13:24.0379376Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T17:25:55.3268905Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T17:26:43.4497221Z",
+  Path: "/api/student/add",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T17:26:50.8125676Z",
+  Path: "/api/student/update",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek2222\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T17:27:19.1422468Z",
+  Path: "/api/student/update",
+  Method: "PUT",
+  Query: "",
+  Body: "{\r\n    \"FirstName\": \"Nowy\",\r\n    \"LastName\": \"Ziomek\",\r\n    \"EnrollmentId\": 1,\r\n    \"Password\": \"Pass\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:04:34.8902437Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T18:04:40.1614772Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:04:58.1910738Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s566\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-05-14T18:05:30.314972Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:05:37.2133552Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:05:42.7303323Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:05:43.8688247Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:05:54.0437279Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:05:57.528199Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:06:16.6047626Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:06:46.6051771Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:06:50.77758Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:06:55.9552322Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:06:58.5675659Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:07:01.6066367Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:07:10.0015439Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:13:13.8512742Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T18:13:15.2490569Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T18:13:17.0338416Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:13:18.8688313Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:13:24.6573269Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:13:25.5336199Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:13:30.2258975Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s566\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:14:13.3991055Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:14:14.4011186Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:15:06.5997113Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:15:47.3982881Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T18:15:48.9173528Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:10.872706Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:19.7621838Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:20.4926707Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:20.9517168Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:21.3923728Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:21.7762056Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:22.0972476Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:22.4213526Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:23.0166144Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:16:24.1997601Z",
+  Path: "/api/enrollment",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Name\": \"Franek\",\r\n    \"Study\": \"IT\",\r\n    \"Surname\": \"Kimono\",\r\n    \"IndexNumber\": \"s555\",\r\n    \"BirthDate\": \"2020-10-20\"\r\n}"
+}{
+  Time: "2020-05-14T18:49:47.1749767Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T18:50:10.6066784Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-05-14T18:50:26.3103109Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T18:52:11.9068761Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T18:52:14.5118034Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-05-14T18:52:20.8507437Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T18:59:13.9771534Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T18:59:16.0790557Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T18:59:21.7481002Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T18:59:22.8038645Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T18:59:23.5890452Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T18:59:24.6871061Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T18:59:26.0388624Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T18:59:58.493935Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T19:00:15.9690212Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T19:00:18.4079027Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:00:39.9228468Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T19:00:47.6437949Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:02:13.9089771Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T19:02:14.6227584Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:02:15.9493284Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:02:16.8598714Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:02:17.5238569Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:02:18.2789316Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:02:18.7834832Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:02:21.6840741Z",
+  Path: "/api/enrollment/login",
+  Method: "GET",
+  Query: "",
+  Body: "{\n\t\"Login\": \"s555\",\n\t\"Password\": \"Pass\"\n}"
+}{
+  Time: "2020-05-14T19:02:30.8052301Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:03:13.7860047Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}{
+  Time: "2020-05-14T19:03:16.3223068Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:03:20.0799929Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:03:21.2113283Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:03:24.6996828Z",
+  Path: "/api/enrollment/promotion",
+  Method: "POST",
+  Query: "",
+  Body: "{\r\n    \"Study\": \"Art\",\r\n    \"Semester\" : 1\r\n}"
+}{
+  Time: "2020-05-14T19:09:13.5758926Z",
+  Path: "/weatherforecast",
+  Method: "GET",
+  Query: "",
+  Body: ""
+}

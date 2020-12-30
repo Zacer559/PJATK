@@ -1,0 +1,30 @@
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.exe
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.deps.json
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.runtimeconfig.json
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.runtimeconfig.dev.json
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.dll
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.pdb
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.csprojAssemblyReference.cache
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.csproj.CoreCompileInputs.cache
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.AssemblyInfoInputs.cache
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.AssemblyInfo.cs
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.dll
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.pdb
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.genruntimeconfig.cache
+C:\Users\zacer\source\repos\TASK2 APBD s16941\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\FIles\data.csv
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.csprojAssemblyReference.cache
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.AssemblyInfoInputs.cache
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.AssemblyInfo.cs
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.exe
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\Files\data.csv
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.deps.json
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.runtimeconfig.json
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.runtimeconfig.dev.json
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.dll
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\TASK2 APBD s16941.pdb
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.dll
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.pdb
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.genruntimeconfig.cache
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.csproj.CoreCompileInputs.cache
+C:\Users\zacer\source\repos\APBD_Tutorial_02\TASK2 APBD s16941\obj\Debug\netcoreapp3.1\TASK2 APBD s16941.csproj.CopyComplete
