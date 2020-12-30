@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08b7f5f7-533e-4c32-bd66-ab3c95be1282" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment08/test/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment08/test/package-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yl53WCYjUtovFPdgul9SARd2gp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08b7f5f7-533e-4c32-bd66-ab3c95be1282" name="Default Changelist" comment="" />
+      <created>1583504141771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583504141771</updated>
+      <workItem from="1583504145395" duration="33000" />
+      <workItem from="1583504432880" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1123" y="587" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583504154807">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1123" y="587" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583504154807" />
+  </component>
+</project>

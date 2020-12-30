@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="103cd581-5cfd-4dbd-9dbc-558ceec392ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W40BtaPWYJ12uqJX8nqlwvTIgW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GroupRepositoryTest">
+    <configuration name="GroupRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment10.repositories.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment10.repositories.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment10.repositories.test.GroupRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment10.repositories.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment10.repositories.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment10.repositories.test.GroupUserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupUserTest.addUserToGroup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment10.repositories.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment10.repositories.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment10.repositories.test.GroupUserTest" />
+      <option name="METHOD_NAME" value="addUserToGroup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment10.repositories.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment10.repositories.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment10.repositories.test.UserRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.addOrUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment10.repositories.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment10.repositories.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment10.repositories.test.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="addOrUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GroupRepositoryTest" />
+        <item itemvalue="JUnit.GroupUserTest" />
+        <item itemvalue="JUnit.UserRepositoryTest" />
+        <item itemvalue="JUnit.UserRepositoryTest.addOrUpdate" />
+        <item itemvalue="JUnit.GroupUserTest.addUserToGroup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="103cd581-5cfd-4dbd-9dbc-558ceec392ce" name="Default Changelist" comment="" />
+      <created>1578393427258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578393427258</updated>
+      <workItem from="1578393433821" duration="10828000" />
+      <workItem from="1578420118942" duration="6224000" />
+      <workItem from="1578426485749" duration="37000" />
+      <workItem from="1578480434917" duration="1533000" />
+      <workItem from="1578666503083" duration="2290000" />
+      <workItem from="1578669909739" duration="2759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="212" width="800" height="687" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578670942026">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="590" y="212" width="800" height="687" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1578670942026" />
+    <state x="293" y="208" width="468" height="695" key="#com.intellij.ide.util.MemberChooser" timestamp="1578425965039">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="293" y="208" width="468" height="695" key="#com.intellij.ide.util.MemberChooser/70.34.1850.1046@70.34.1850.1046" timestamp="1578425965039" />
+    <state x="395" y="439" width="376" height="228" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578393474317">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="395" y="439" width="376" height="228" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1578393474317" />
+    <state x="260" y="221" width="856" height="669" key="FileChooserDialogImpl" timestamp="1578669730255">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="2183" y="257" width="856" height="917" key="FileChooserDialogImpl/0.34.1920.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578482061282" />
+    <state x="2183" y="257" width="856" height="919" key="FileChooserDialogImpl/70.34.1850.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578480667912" />
+    <state x="260" y="221" width="856" height="669" key="FileChooserDialogImpl/70.34.1850.1046@70.34.1850.1046" timestamp="1578669730255" />
+    <state width="1794" height="262" key="GridCell.Tab.0.bottom" timestamp="1578672679493">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state width="1794" height="262" key="GridCell.Tab.0.bottom/70.34.1850.1046@70.34.1850.1046" timestamp="1578672679493" />
+    <state width="1794" height="262" key="GridCell.Tab.0.center" timestamp="1578672679492">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state width="1794" height="262" key="GridCell.Tab.0.center/70.34.1850.1046@70.34.1850.1046" timestamp="1578672679492" />
+    <state width="1794" height="262" key="GridCell.Tab.0.left" timestamp="1578672679492">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state width="1794" height="262" key="GridCell.Tab.0.left/70.34.1850.1046@70.34.1850.1046" timestamp="1578672679492" />
+    <state width="1794" height="262" key="GridCell.Tab.0.right" timestamp="1578672679492">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state width="1794" height="262" key="GridCell.Tab.0.right/70.34.1850.1046@70.34.1850.1046" timestamp="1578672679492" />
+    <state x="630" y="34" width="1280" height="1044" key="SettingsEditor" timestamp="1578670090737">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="3190" y="195" width="1280" height="1047" key="SettingsEditor/0.34.1920.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578481963583" />
+    <state x="3190" y="195" width="1280" height="1047" key="SettingsEditor/70.34.1850.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578480669422" />
+    <state x="630" y="34" width="1280" height="1044" key="SettingsEditor/70.34.1850.1046@70.34.1850.1046" timestamp="1578670090737" />
+    <state x="868" y="433" width="793" height="244" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578670085417">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="868" y="433" width="793" height="244" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/70.34.1850.1046@70.34.1850.1046" timestamp="1578670085417" />
+    <state x="112" y="252" key="run.anything.popup" timestamp="1578425675095">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="112" y="252" key="run.anything.popup/70.34.1850.1046@70.34.1850.1046" timestamp="1578425675095" />
+    <state x="2779" y="322" width="840" height="1034" key="search.everywhere.popup" timestamp="1578480617656">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2779" y="322" width="840" height="1034" key="search.everywhere.popup/70.34.1850.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578480617656" />
+  </component>
+</project>

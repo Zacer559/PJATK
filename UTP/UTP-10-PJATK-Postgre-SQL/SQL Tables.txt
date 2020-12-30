@@ -1,0 +1,32 @@
+pg_ctlcluster 11 main start
+
+In DataGrip:
+
+CREATE TABLE groups
+(
+    group_id          INT PRIMARY KEY,
+    group_name        VARCHAR(50)  NOT NULL,
+    group_description VARCHAR(100) NOT NULL
+);
+CREATE TABLE users
+(
+    user_id       INT PRIMARY KEY,
+    user_login    VARCHAR(50) UNIQUE NOT NULL,
+    user_password VARCHAR(50)        NOT NULL
+);
+CREATE TABLE groups_users
+(
+    user_id  INT NOT NULL,
+    group_id INT NOT NULL,
+    PRIMARY KEY (user_id, group_id),
+    CONSTRAINT accountroleroleidfkey FOREIGN KEY (group_id) REFERENCES groups (group_id) MATCH SIMPLE ON UPDATE NO ACTION ON DELETE NO ACTION,
+    CONSTRAINT accountroleuseridfkey FOREIGN KEY (user_id) REFERENCES users (user_id) MATCH SIMPLE ON UPDATE NO ACTION ON DELETE NO ACTION
+);
+CREATE SEQUENCE userseq INCREMENT 1 MINVALUE 1 MAXVALUE 9223372036854775807 CACHE 1 START 1;
+ALTER SEQUENCE userseq RESTART WITH 1;
+CREATE SEQUENCE groupseq INCREMENT 1 MINVALUE 1 MAXVALUE 9223372036854775807 CACHE 1 START 1;
+ALTER SEQUENCE groupseq RESTART WITH 1;
+
+
+
+
