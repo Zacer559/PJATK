@@ -1,0 +1,1 @@
+# TPO-10-PJATK-JAXWS-Soap-Service

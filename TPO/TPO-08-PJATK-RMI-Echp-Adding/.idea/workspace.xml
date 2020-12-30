@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e699e5b-e4b0-4681-b9bf-c719e6c43cb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1atGMrayzOVZiZmdynp40GBBROg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\TPO-08-PJATK-RMI-Echp-Adding\src" />
+      <recent name="E:\Projects\TPO-08-PJATK-RMI-Echp-Adding\src\Client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\TPO-08-PJATK-RMI-Echp-Adding\src" />
+      <recent name="E:\Projects\TPO-08-PJATK-RMI-Echp-Adding\src\Server" />
+      <recent name="E:\Projects\TPO-08-PJATK-RMI-Echp-Adding\src\Client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="TPO-08-PJATK-RMI-Echp-Adding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.Client" />
+      <module name="TPO-08-PJATK-RMI-Echp-Adding" />
+      <option name="PROGRAM_PARAMETERS" value="cos 22 66" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Service" />
+      <module name="TPO-08-PJATK-RMI-Echp-Adding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Service" />
+      <module name="TPO-08-PJATK-RMI-Echp-Adding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service222" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Service" />
+      <module name="TPO-08-PJATK-RMI-Echp-Adding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Service" />
+      <item itemvalue="Application.Service222" />
+      <item itemvalue="Application.Client (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Service" />
+        <item itemvalue="Application.Service222" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e699e5b-e4b0-4681-b9bf-c719e6c43cb2" name="Default Changelist" comment="" />
+      <created>1587547431376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587547431376</updated>
+      <workItem from="1587547433074" duration="1673000" />
+      <workItem from="1587565531677" duration="2162000" />
+      <workItem from="1587570241446" duration="2953000" />
+      <workItem from="1587646418292" duration="1765000" />
+    </task>
+    <task id="LOCAL-00001" summary="Propably finished.">
+      <created>1587567074155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587567074155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished project.">
+      <created>1587572589548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587572589548</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Propably finished." />
+    <MESSAGE value="Finished project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished project." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587647473415">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587647473415" />
+    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser" timestamp="1587571073836">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1587571073836" />
+    <state x="960" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587567094025">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587567094025" />
+    <state x="810" y="206" key="CommitChangelistDialog2" timestamp="1587572589194">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="810" y="206" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1587572589194" />
+    <state x="420" y="458" key="FileChooserDialogImpl" timestamp="1587648178401">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="420" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587648178401" />
+    <state width="1236" height="394" key="GridCell.Tab.0.bottom" timestamp="1587648183780">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1236" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587648183780" />
+    <state width="1236" height="394" key="GridCell.Tab.0.center" timestamp="1587648183780">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1236" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587648183780" />
+    <state width="1236" height="394" key="GridCell.Tab.0.left" timestamp="1587648183780">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1236" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587648183780" />
+    <state width="1236" height="394" key="GridCell.Tab.0.right" timestamp="1587648183780">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1236" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587648183780" />
+    <state x="979" y="318" key="RollbackChangesDialog" timestamp="1587572346860">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="979" y="318" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587572346860" />
+    <state x="872" y="427" key="Vcs.Push.Dialog.v2" timestamp="1587572594529">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="427" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1587572594529" />
+    <state x="662" y="279" key="new project wizard" timestamp="1587647658900">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="279" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1587647658900" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1587570445288">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587570445288" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587570259822">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587570259822" />
+  </component>
+</project>

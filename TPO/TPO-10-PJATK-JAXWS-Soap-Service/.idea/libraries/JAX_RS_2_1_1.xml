@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JAX-RS-2.1.1" type="JAX-RS">
+    <properties version="2.1.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.ws.rs-api-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

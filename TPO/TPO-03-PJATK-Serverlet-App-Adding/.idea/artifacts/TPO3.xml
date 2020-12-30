@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TPO3">
+    <output-path>$PROJECT_DIR$/out/artifacts/TPO3</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TPO3" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="TPO3/web/Web" />
+    </root>
+  </artifact>
+</component>
