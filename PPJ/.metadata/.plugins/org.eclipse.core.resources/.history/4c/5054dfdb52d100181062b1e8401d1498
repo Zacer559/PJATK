@@ -1,0 +1,22 @@
+import javax.swing.JOptionPane;
+
+public class Numbers {
+
+	public static void main(String[] args) {
+		String s = JOptionPane.showInputDialog(null, "enter a");
+		int a = Integer.parseInt(s);
+		s = JOptionPane.showInputDialog(null, "enter b");
+		int b = Integer.parseInt(s);
+		s = JOptionPane.showInputDialog(null, "enter c");
+		int c = Integer.parseInt(s);
+		
+		int max1=a;
+		int max2=a;
+		int max3=a;
+		if (b>max1) {max1=b;}
+		if (c>max1) {max1=c;}
+		if (b>max2) {max2=b;}
+		JOptionPane.showMessageDialog (null,max1 + " " + max2 + " " + max3);
+	}
+
+}

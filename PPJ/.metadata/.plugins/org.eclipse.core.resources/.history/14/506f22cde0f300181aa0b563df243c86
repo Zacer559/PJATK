@@ -1,0 +1,8 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Person dupa = new Person ("dupa",1995);
+	}
+
+}

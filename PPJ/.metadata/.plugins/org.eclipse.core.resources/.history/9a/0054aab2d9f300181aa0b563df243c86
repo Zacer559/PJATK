@@ -1,0 +1,12 @@
+
+public class Person {
+ private int BirthYear;
+ private String name;
+ 
+ public TakeNameAge(String n, int BirthYear) {
+	 this.BirthYear=BirthYear;
+	 name=n;
+	  }
+ 
+
+}

@@ -1,0 +1,9 @@
+import javax.swing.JOptionPane;
+public class Numbers {
+
+	public static void main(String[] args) {
+			int a = JOptionPane.showInputDialog(null,"enter a");
+
+	}
+
+}

@@ -1,0 +1,11 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Person dupa = new Person ("dupa",1995);
+		Person Marcin = new Person ("marcin",1999);
+		Person Karolina = new Person ("Karolina");
+		//Person.g
+	}
+
+}
