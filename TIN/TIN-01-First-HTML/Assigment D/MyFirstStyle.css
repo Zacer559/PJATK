@@ -1,0 +1,44 @@
+/* Some styling */
+body {
+    color: white;
+    background-color: dimgrey;
+}
+h1 {
+
+    color: white;
+    font-family: Cambria, sans-serif;
+    font-size: 200%;
+    margin-left: 40px;
+}
+h2 {
+    color: ghostwhite;
+    font-family: "Segoe UI Black", sans-serif;
+    font-size: 200%;
+    margin-left: 20px;
+}
+p {
+    color: antiquewhite;
+    font-family: Arial, serif;
+    font-size: 70%;
+}
+
+/* 1. Define style and size of font for form elements */
+input{
+    color: white;
+    background-color: black;
+    font-size:12px;
+    font-style: italic;
+    font-family: "Century Schoolbook",sans-serif;
+}
+select{ color: navy;
+        font-family: "Corbel",serif;
+}
+textarea{
+    color: saddlebrown;
+    background-color: darkkhaki;
+
+}
+/* 2. Define colors for field labels (mandatory fields should have different color from other fields) */
+:required {
+    background: red;
+}

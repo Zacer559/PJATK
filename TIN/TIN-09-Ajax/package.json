@@ -1,0 +1,14 @@
+{
+  "name": "09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "9a.js",
+  "scripts": {
+    "start": "node 9a.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

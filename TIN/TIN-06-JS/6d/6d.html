@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>6d</title>
+    <link
+            crossorigin="anonymous"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+            integrity="sha256-Ww++W3rXBfapN8SZitAvc9jw2Xb+Ixt0rvDsmWmQyTo="
+            rel="stylesheet"
+    />
+</head>
+<body>
+<form onsubmit="return false;">
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text">Make</span>
+        </div>
+        <input class="form-control" id="first-input" required type="text"/>
+    </div>
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text">Model</span>
+        </div>
+        <input class="form-control" id="second-input" required type="text"/>
+    </div>
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text">Age</span>
+        </div>
+        <input class="form-control" id="third-input" required type="number"/>
+    </div>
+    <button class="btn btn-primary w-100" onclick="add()">add</button>
+</form>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Mark</th>
+        <th>Model</th>
+        <th>Age</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>BMW</td>
+        <td>420d</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Fiat</td>
+        <td>126p</td>
+        <td>35</td>
+    </tr>
+    <tr>
+        <td>Polonez</td>
+        <td>Atu plus</td>
+        <td>40</td>
+    </tr>
+    </tbody>
+</table>
+
+<script
+        crossorigin="anonymous"
+        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+        src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+></script>
+<script
+        crossorigin="anonymous"
+        integrity="sha256-ZvOgfh+ptkpoa2Y4HkRY28ir89u/+VRyDE7sB7hEEcI="
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+></script>
+<script
+        crossorigin="anonymous"
+        integrity="sha256-ecWZ3XYM7AwWIaGvSdmipJ2l1F4bN9RXW6zgpeAiZYI="
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+></script>
+<script src="6d.js"></script>
+</body>
+</html>

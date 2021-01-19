@@ -1,0 +1,80 @@
+html, body {
+    margin: 0;
+    display: block;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+h1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+body {
+    width: 100%;
+}
+
+body > header {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
+
+body > header > img {
+
+    box-shadow: 10px 10px #2f387b;
+    transform: rotate(10deg);
+    border-radius: 20%;
+}
+
+body > .container {
+    margin: 0 5%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+
+
+blockquote {
+    font-size: 15px;
+    width: 40%;
+    color: red;
+    float: left;
+    text-align: center;
+    font-style: italic;
+}
+
+.container > .column > img {
+    width: 100%;
+    padding: 20px 0;
+}
+
+.picture > img {
+    float: left;
+    alignment: left;
+    width: 100%;
+    padding: 20px 0;
+}
+
+.container > .column > .img-overlay-left {
+    position: relative;
+    float: left;
+    width: 100px;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    background: #ed4e4e;
+    color: #FFF;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+}
+
+@media all and (max-width: 800px) {
+    .container > .column2 {
+    order: 3
+    }
+}

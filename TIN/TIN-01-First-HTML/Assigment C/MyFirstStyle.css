@@ -1,0 +1,49 @@
+/* 1. Define font style and size for paragraphs and headers */
+body {
+    color: white;
+    background-color: dimgrey;
+}
+
+h1 {
+
+    color: white;
+    font-family: Cambria, sans-serif;
+    font-size: 200%;
+    margin-left: 40px;
+}
+
+h2 {
+    color: ghostwhite;
+    font-family: "Segoe UI Black", sans-serif;
+    font-size: 200%;
+    margin-left: 20px;
+}
+
+p {
+    color: antiquewhite;
+    font-family: Arial, serif;
+    font-size: 70%;
+}
+
+mark {
+    background-color: aqua;
+    color: red;
+
+}
+/* 2. Define style and color of table borders */
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    width: 70%;
+    align-content: center;
+}
+/* 3. Remove underlines from links */
+a {
+    text-decoration: none;
+}
+/* 4. Change the style of markers for unordered lists */
+ul {
+    list-style-type: square;
+    margin: 10px;
+    padding: 5px;
+}

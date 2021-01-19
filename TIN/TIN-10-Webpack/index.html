@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Converter</title>
+    <style>
+        .column {
+            float: left;
+            width: 33.33%;
+        }
+       
+        .row {
+            margin: 20px 0;
+        }
+        
+        input {
+            margin: 0 auto;
+        }
+        
+        label {
+            display: block;
+        }
+    </style>
+    <script src="dist/bundle.js"></script>
+</head>
+
+<body>
+    <div class="row">
+        <div class="column">
+            <label>Fahrenheit</label>
+            <input type="number" placeholder="Fahrenheit" id="fahrenheit">
+        </div>
+        <div class="column">
+            <label>Celsius</label>
+            <input type="number" placeholder="Celsius" id="celsius">
+        </div>
+        <div class="column">
+            <label>Kelvin </label>
+            <input type="number" placeholder="Kelvin" id="kelvin">
+        </div>
+    </div>
+    <div class="row">
+        <div class="column">
+            <label>Kilometers </label>
+            <input type="number" placeholder="Kilometers" id="kilometers">
+        </div>
+        <div class="column">
+            <label>Miles </label>
+            <input type="number" placeholder="Miles" id="miles">
+        </div>
+        <div class="column"></div>
+    </div>
+</body>
+
+</html>
