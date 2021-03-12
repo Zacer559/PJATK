@@ -1,0 +1,58 @@
+.left {
+    float: left;
+    margin-right: 1em;
+}
+
+.right {
+    float: right;
+    margin-left: 1em;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1D1F1F;
+}
+
+article {
+    background-color: white;
+    padding: 1em;
+    width: 65%;
+    margin: 0 auto;
+    border: 5px solid #E18728;
+    font-family: Corbel,serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: Corbel, sans-serif;
+}
+
+figure {
+    text-align: center;
+    text-transform: uppercase;
+    padding: .2em;
+    margin: 0;
+}
+
+figure img {
+    max-width: 100%;
+}
+
+@media all and (max-width: 1100px) {
+    article {
+        width: 50%;
+    }
+}
+
+@media all and (max-width: 950px) {
+    article {
+        width: 50%;
+    }
+}

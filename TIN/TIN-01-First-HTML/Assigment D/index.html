@@ -1,0 +1,57 @@
+<!-- 1.Standard page skeleton (html, head, body etc.) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="MyFirstStyle.css">
+    <title>My page about nothing (Assigment D):></title>
+    <h1>My page about nothing (Assigment D)</h1>
+</head>
+<body>
+<form action="Url_where_I_want_to_send(post)_form" method="post">
+    <!-- 2. Contains the following form elements: -->
+    <h2>Form elements:</h2>
+    <!-- A. Text input field -->
+    <p>Text input field:</p>
+    <input type="text" required>
+    <!-- B. Password field -->
+    <!-- C. Checkbox -->
+    <p>Password field and checkbox:</p>
+    <input type="password" required>
+    <input type="checkbox" >
+    <!-- D. Radiobutton group  -->
+    <p>Radiobutton group:</p>
+    <div>
+        <input type="radio" id="First" name="car_mark" value="BMW"
+               checked>
+        <label for="First">BMW</label>
+    </div>
+    <div>
+        <input type="radio" id="Second" name="car_mark" value="Mercedes">
+        <label for="Second">Mercedes</label>
+    </div>
+    <div>
+        <input type="radio" id="Third" name="car_mark" value="Porsche">
+        <label for="Third">Porsche</label>
+    </div>
+    <!-- E. Dropdown list -->
+    <p>Dropdown list:</p>
+    <label for="cars">Choose a car:</label>
+    <select name="cars" id="cars">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="mercedes">Mercedes</option>
+        <option value="audi">Audi</option>
+    </select>
+    <!-- F. Text area -->
+    <p>Text area:</p>
+    <label for="Car"></label>
+    <textarea id="Car" name="Car" rows="4" cols="50">
+A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of cars say that they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.
+</textarea>
+    <!-- F. Submit and reset buttons -->
+    <p>Submit and reset buttons:</p>
+    <input type="reset" value="Clear form"/>
+    <input type="submit" value="Submit now"/>
+</form>
+</body>
+</html>
