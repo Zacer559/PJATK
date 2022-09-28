@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_prompt">Choose color</string>
+    <string-array name="spinner_colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Violet</item>
+    </string-array>
+</resources>

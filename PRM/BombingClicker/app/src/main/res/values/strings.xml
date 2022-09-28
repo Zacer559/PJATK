@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BombingClicker</string>
+    <string name="action_settings">Settings</string>
+    <string name="clickACookie">Work for the bombs!</string>
+    <string name="currentPointsView">{points}</string>
+    <string name="pointsIncrementorView">{points/second}</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="chrl_clicker">Bombing Clicker</string>
+    <string name="ranking">Ranking</string>
+    <string name="options">Options</string>
+    <string name="exit">Exit</string>
+    <string name="new_game">New Game</string>
+    <string name="game_options">Game Options</string>
+</resources>

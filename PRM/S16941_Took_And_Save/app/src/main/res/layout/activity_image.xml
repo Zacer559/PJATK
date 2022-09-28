@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ImageActivity">
+
+
+    <Button
+        android:id="@+id/button_back_from_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_margin="20dp"
+        android:background="@drawable/my_rounded_button"
+        android:text="@string/back"
+        android:textColor="@color/colorWhite" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/note3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="16dp"
+            android:paddingTop="4dp"
+            android:text="@string/your_photo"
+            android:textColor="@color/ic_launcher_background"
+            android:textSize="24sp"
+            tools:ignore="RtlSymmetry" />
+
+        <ImageView
+            android:id="@+id/image_image_activity"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:maxWidth="400dp"
+            app:srcCompat="@drawable/app_icon"
+            android:contentDescription="TODO" />
+
+        <TextView
+            android:id="@+id/note2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="16dp"
+            android:paddingTop="4dp"
+            android:text="@string/localization"
+            android:textColor="@color/ic_launcher_background"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp">
+
+            <TextView
+                android:id="@+id/loc_image_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:maxWidth="120dp"
+                android:text="@string/textview"
+                android:textAlignment="viewStart" />
+
+            <TextView
+                android:id="@+id/date_image_activity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:text="@string/textview"
+                android:textAlignment="viewEnd" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="18dp"
+            android:paddingTop="4dp"
+            android:text="@string/additional_note"
+            android:textColor="@color/ic_launcher_background"
+            android:textSize="16sp"
+            tools:ignore="RtlSymmetry" />
+
+        <TextView
+            android:id="@+id/note_image_activity"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="30dp"
+            android:paddingStart="16dp"
+            android:text="@string/textview" />
+
+
+    </LinearLayout>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

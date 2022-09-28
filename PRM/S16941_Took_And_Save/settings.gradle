@@ -1,0 +1,2 @@
+rootProject.name='PRM_02'
+include ':app'
