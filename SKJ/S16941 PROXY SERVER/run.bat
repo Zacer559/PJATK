@@ -1,0 +1,2 @@
+cd Binary
+java Main
